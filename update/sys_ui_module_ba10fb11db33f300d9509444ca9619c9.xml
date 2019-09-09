@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="CreateJobs">7e10fb11db33f300d9509444ca9619c7</application>
+        <filter/>
+        <name>CreateJobs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_396036_customjob.createjobs_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-09 15:24:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ba10fb11db33f300d9509444ca9619c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CreateJobs</sys_name>
+        <sys_package display_value="customJob" source="x_396036_customjob">1be52b19dbffb300d9509444ca961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="customJob">1be52b19dbffb300d9509444ca961906</sys_scope>
+        <sys_update_name>sys_ui_module_ba10fb11db33f300d9509444ca9619c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-09 15:24:12</sys_updated_on>
+        <table>x_396036_customjob_createjobs</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
